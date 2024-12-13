@@ -1,0 +1,1 @@
+<log><command>LOAD_CONST 42 27</command><command>READ_MEM 32 27</command><command>LOAD_CONST 49 30</command><command>WRITE_MEM 30 32</command></log>
